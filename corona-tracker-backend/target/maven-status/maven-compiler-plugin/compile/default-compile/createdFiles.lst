@@ -1,0 +1,8 @@
+com/hackforfun/coronatrackerbackend/service/CommentService.class
+com/hackforfun/coronatrackerbackend/model/Comment.class
+com/hackforfun/coronatrackerbackend/exception/CommentCollectionException.class
+com/hackforfun/coronatrackerbackend/controller/CommentController.class
+com/hackforfun/coronatrackerbackend/controller/CoronaTrackerController.class
+com/hackforfun/coronatrackerbackend/MongoValidationConfig.class
+com/hackforfun/coronatrackerbackend/repository/CommentRepository.class
+com/hackforfun/coronatrackerbackend/CoronaTrackerBackendApplication.class
